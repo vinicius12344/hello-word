@@ -1,3 +1,4 @@
 # hello-word
 
-Oi e tenham um bom dai.
+Hi, i'm Vinicius.
+I am student and i start it now 12/09/2021.
