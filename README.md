@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>My web site</h1>
-    my nama is Vinicius 
+    my name is Vinicius 
 </body>
 </html>
