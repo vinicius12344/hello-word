@@ -9,6 +9,6 @@
     <h2>Segunda linha do site</h2>
     my name is Vinicius 
     <br/>
-    And i am learning how git works
+    And i am learning how git works!
 </body>
 </html>
